@@ -39,7 +39,8 @@ dependencies:
   just_audio: ^0.9.36
   on_audio_query: ^2.9.0
   permission_handler: ^11.0.1
-
+  flutter_ringtone_player: ^3.2.0
+  ringtone_set: ^0.0.3
 dev_dependencies:
   flutter_test:
     sdk: flutter
